@@ -1,5 +1,5 @@
 # 🚗 OBJECTNET
-###Autonomous Vehicle Object Detection System
+Autonomous Vehicle Object Detection System
 
 ## 📌 Project Overview
 This project implements a real-time object detection system for autonomous driving scenarios using YOLO and SSD-based deep learning models. The system detects road-relevant objects such as vehicles and pedestrians and displays bounding boxes with labels and confidence scores.
